@@ -1,0 +1,6 @@
+#Wed, 24 May 2017 19:52:12 +0530
+
+info.app.version=0.1
+info.app.name=movie_database
+grails.env=development
+info.app.grailsVersion=3.1.10
